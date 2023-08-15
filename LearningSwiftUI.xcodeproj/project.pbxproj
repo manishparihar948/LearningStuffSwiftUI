@@ -14,6 +14,7 @@
 		CD24A15D2A8A827500E69C2C /* LongPressGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A15C2A8A827500E69C2C /* LongPressGesture.swift */; };
 		CD24A15F2A8A876600E69C2C /* MagnificationGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A15E2A8A876600E69C2C /* MagnificationGesture.swift */; };
 		CD24A1612A8AD3F500E69C2C /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1602A8AD3F500E69C2C /* ScrollViewReaderBootCamp.swift */; };
+		CD24A1632A8B82B200E69C2C /* GeometryReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1622A8B82B100E69C2C /* GeometryReaderBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		CD24A15C2A8A827500E69C2C /* LongPressGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGesture.swift; sourceTree = "<group>"; };
 		CD24A15E2A8A876600E69C2C /* MagnificationGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGesture.swift; sourceTree = "<group>"; };
 		CD24A1602A8AD3F500E69C2C /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
+		CD24A1622A8B82B100E69C2C /* GeometryReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CD24A15C2A8A827500E69C2C /* LongPressGesture.swift */,
 				CD24A15E2A8A876600E69C2C /* MagnificationGesture.swift */,
 				CD24A1602A8AD3F500E69C2C /* ScrollViewReaderBootCamp.swift */,
+				CD24A1622A8B82B100E69C2C /* GeometryReaderBootCamp.swift */,
 				CD24A1522A8A47A200E69C2C /* Assets.xcassets */,
 				CD24A1542A8A47A200E69C2C /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD24A1512A8A479F00E69C2C /* ContentView.swift in Sources */,
+				CD24A1632A8B82B200E69C2C /* GeometryReaderBootCamp.swift in Sources */,
 				CD24A15F2A8A876600E69C2C /* MagnificationGesture.swift in Sources */,
 				CD24A14F2A8A479F00E69C2C /* LearningSwiftUIApp.swift in Sources */,
 				CD24A15D2A8A827500E69C2C /* LongPressGesture.swift in Sources */,
