@@ -24,6 +24,8 @@
 		CD24A1722A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1712A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift */; };
 		CD24A1742A8CDE9200E69C2C /* HashableBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1732A8CDE9200E69C2C /* HashableBootCamp.swift */; };
 		CD24A1762A8CE2AA00E69C2C /* ArraysBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1752A8CE2AA00E69C2C /* ArraysBootCamp.swift */; };
+		CDD20BC22A8D0B9100592BE2 /* CoreDataBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC12A8D0B9100592BE2 /* CoreDataBootCamp.swift */; };
+		CDD20BC52A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC32A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +47,8 @@
 		CD24A1712A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsBootCamp.swift; sourceTree = "<group>"; };
 		CD24A1732A8CDE9200E69C2C /* HashableBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootCamp.swift; sourceTree = "<group>"; };
 		CD24A1752A8CE2AA00E69C2C /* ArraysBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootCamp.swift; sourceTree = "<group>"; };
+		CDD20BC12A8D0B9100592BE2 /* CoreDataBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootCamp.swift; sourceTree = "<group>"; };
+		CDD20BC42A8D0CC200592BE2 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +95,8 @@
 				CD24A1712A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift */,
 				CD24A1732A8CDE9200E69C2C /* HashableBootCamp.swift */,
 				CD24A1752A8CE2AA00E69C2C /* ArraysBootCamp.swift */,
+				CDD20BC12A8D0B9100592BE2 /* CoreDataBootCamp.swift */,
+				CDD20BC32A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld */,
 				CD24A1522A8A47A200E69C2C /* Assets.xcassets */,
 				CD24A1542A8A47A200E69C2C /* Preview Content */,
 			);
@@ -191,12 +197,14 @@
 				CD24A1702A8BB8B900E69C2C /* HapticsAndVibrationBootCamp.swift in Sources */,
 				CD24A15F2A8A876600E69C2C /* MagnificationGesture.swift in Sources */,
 				CD24A1762A8CE2AA00E69C2C /* ArraysBootCamp.swift in Sources */,
+				CDD20BC22A8D0B9100592BE2 /* CoreDataBootCamp.swift in Sources */,
 				CD24A14F2A8A479F00E69C2C /* LearningSwiftUIApp.swift in Sources */,
 				CD24A1692A8BB4B400E69C2C /* SoundEffectBootCamp.swift in Sources */,
 				CD24A1742A8CDE9200E69C2C /* HashableBootCamp.swift in Sources */,
 				CD24A15D2A8A827500E69C2C /* LongPressGesture.swift in Sources */,
 				CD24A1652A8B8A7500E69C2C /* MultipleSheetBootCamp.swift in Sources */,
 				CD24A1672A8B911300E69C2C /* MaskBootCamp.swift in Sources */,
+				CDD20BC52A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld in Sources */,
 				CD24A1722A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift in Sources */,
 				CD24A1612A8AD3F500E69C2C /* ScrollViewReaderBootCamp.swift in Sources */,
 			);
@@ -399,6 +407,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		CDD20BC32A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				CDD20BC42A8D0CC200592BE2 /* FruitsContainer.xcdatamodel */,
+			);
+			currentVersion = CDD20BC42A8D0CC200592BE2 /* FruitsContainer.xcdatamodel */;
+			path = FruitsContainer.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = CD24A1432A8A479F00E69C2C /* Project object */;
 }
