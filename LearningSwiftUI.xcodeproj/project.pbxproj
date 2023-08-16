@@ -23,6 +23,7 @@
 		CD24A1702A8BB8B900E69C2C /* HapticsAndVibrationBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A16F2A8BB8B900E69C2C /* HapticsAndVibrationBootCamp.swift */; };
 		CD24A1722A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1712A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift */; };
 		CD24A1742A8CDE9200E69C2C /* HashableBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1732A8CDE9200E69C2C /* HashableBootCamp.swift */; };
+		CD24A1762A8CE2AA00E69C2C /* ArraysBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1752A8CE2AA00E69C2C /* ArraysBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		CD24A16F2A8BB8B900E69C2C /* HapticsAndVibrationBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsAndVibrationBootCamp.swift; sourceTree = "<group>"; };
 		CD24A1712A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsBootCamp.swift; sourceTree = "<group>"; };
 		CD24A1732A8CDE9200E69C2C /* HashableBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootCamp.swift; sourceTree = "<group>"; };
+		CD24A1752A8CE2AA00E69C2C /* ArraysBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				CD24A16F2A8BB8B900E69C2C /* HapticsAndVibrationBootCamp.swift */,
 				CD24A1712A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift */,
 				CD24A1732A8CDE9200E69C2C /* HashableBootCamp.swift */,
+				CD24A1752A8CE2AA00E69C2C /* ArraysBootCamp.swift */,
 				CD24A1522A8A47A200E69C2C /* Assets.xcassets */,
 				CD24A1542A8A47A200E69C2C /* Preview Content */,
 			);
@@ -187,6 +190,7 @@
 				CD24A1632A8B82B200E69C2C /* GeometryReaderBootCamp.swift in Sources */,
 				CD24A1702A8BB8B900E69C2C /* HapticsAndVibrationBootCamp.swift in Sources */,
 				CD24A15F2A8A876600E69C2C /* MagnificationGesture.swift in Sources */,
+				CD24A1762A8CE2AA00E69C2C /* ArraysBootCamp.swift in Sources */,
 				CD24A14F2A8A479F00E69C2C /* LearningSwiftUIApp.swift in Sources */,
 				CD24A1692A8BB4B400E69C2C /* SoundEffectBootCamp.swift in Sources */,
 				CD24A1742A8CDE9200E69C2C /* HashableBootCamp.swift in Sources */,

@@ -12,7 +12,7 @@ import SwiftUI
 /*
 struct MyCustomModel: Identifiable {
     
-    let id: UUID().uuidString
+    let id = UUID().uuidString
     let title: String
 }
 */
@@ -24,7 +24,7 @@ struct MyCustomModel: Hashable {
     
     // To confirm a hashable, this model to have a hashable id create a hash with an unique id
     func hash(into hasher: inout Hasher) {
-        // Customise the hash funtion further 
+        // Customise the hash funtion further
         hasher.combine(title)
     }
     
