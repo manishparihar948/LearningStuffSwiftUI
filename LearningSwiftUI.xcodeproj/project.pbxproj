@@ -30,6 +30,7 @@
 		CDD20BC92A8D253900592BE2 /* WeakAndSelfBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC82A8D253900592BE2 /* WeakAndSelfBootCamp.swift */; };
 		CDD20BCB2A8D2BE600592BE2 /* TypeAliasBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BCA2A8D2BE600592BE2 /* TypeAliasBootCamp.swift */; };
 		CDD20BCD2A8E1ABA00592BE2 /* EscapingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BCC2A8E1ABA00592BE2 /* EscapingBootCamp.swift */; };
+		CDD20BCF2A8E280C00592BE2 /* CodableBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BCE2A8E280C00592BE2 /* CodableBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,7 @@
 		CDD20BC82A8D253900592BE2 /* WeakAndSelfBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakAndSelfBootCamp.swift; sourceTree = "<group>"; };
 		CDD20BCA2A8D2BE600592BE2 /* TypeAliasBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeAliasBootCamp.swift; sourceTree = "<group>"; };
 		CDD20BCC2A8E1ABA00592BE2 /* EscapingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingBootCamp.swift; sourceTree = "<group>"; };
+		CDD20BCE2A8E280C00592BE2 /* CodableBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				CDD20BC82A8D253900592BE2 /* WeakAndSelfBootCamp.swift */,
 				CDD20BCA2A8D2BE600592BE2 /* TypeAliasBootCamp.swift */,
 				CDD20BCC2A8E1ABA00592BE2 /* EscapingBootCamp.swift */,
+				CDD20BCE2A8E280C00592BE2 /* CodableBootCamp.swift */,
 				CD24A1522A8A47A200E69C2C /* Assets.xcassets */,
 				CD24A1542A8A47A200E69C2C /* Preview Content */,
 			);
@@ -223,6 +226,7 @@
 				CDD20BCD2A8E1ABA00592BE2 /* EscapingBootCamp.swift in Sources */,
 				CD24A1722A8CD5E700E69C2C /* LocalNotificationsBootCamp.swift in Sources */,
 				CD24A1612A8AD3F500E69C2C /* ScrollViewReaderBootCamp.swift in Sources */,
+				CDD20BCF2A8E280C00592BE2 /* CodableBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
