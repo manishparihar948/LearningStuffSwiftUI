@@ -74,8 +74,7 @@ struct DownloadWithEscapingBootCamp: View {
                     Text(post.body)
                         .foregroundColor(.green)
                 }
-                .frame(maxWidth: .infinity, alignment: .leading)
-            }
+             }
         }
     }
 }

@@ -25,6 +25,8 @@
 		CD24A1742A8CDE9200E69C2C /* HashableBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1732A8CDE9200E69C2C /* HashableBootCamp.swift */; };
 		CD24A1762A8CE2AA00E69C2C /* ArraysBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD24A1752A8CE2AA00E69C2C /* ArraysBootCamp.swift */; };
 		CD611E0C2A8F751C009364ED /* DownloadWithEscapingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD611E0B2A8F751C009364ED /* DownloadWithEscapingBootCamp.swift */; };
+		CD611E0E2A8F9367009364ED /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD611E0D2A8F9367009364ED /* DownloadWithCombine.swift */; };
+		CD611E102A8FA202009364ED /* CombineExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD611E0F2A8FA202009364ED /* CombineExample.swift */; };
 		CDD20BC22A8D0B9100592BE2 /* CoreDataBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC12A8D0B9100592BE2 /* CoreDataBootCamp.swift */; };
 		CDD20BC52A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC32A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld */; };
 		CDD20BC72A8D1CB000592BE2 /* MultiThreadingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC62A8D1CAF00592BE2 /* MultiThreadingBootCamp.swift */; };
@@ -54,6 +56,8 @@
 		CD24A1732A8CDE9200E69C2C /* HashableBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootCamp.swift; sourceTree = "<group>"; };
 		CD24A1752A8CE2AA00E69C2C /* ArraysBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootCamp.swift; sourceTree = "<group>"; };
 		CD611E0B2A8F751C009364ED /* DownloadWithEscapingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingBootCamp.swift; sourceTree = "<group>"; };
+		CD611E0D2A8F9367009364ED /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
+		CD611E0F2A8FA202009364ED /* CombineExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CombineExample.swift; path = Sounds/CombineExample.swift; sourceTree = "<group>"; };
 		CDD20BC12A8D0B9100592BE2 /* CoreDataBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootCamp.swift; sourceTree = "<group>"; };
 		CDD20BC42A8D0CC200592BE2 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		CDD20BC62A8D1CAF00592BE2 /* MultiThreadingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiThreadingBootCamp.swift; sourceTree = "<group>"; };
@@ -115,6 +119,8 @@
 				CDD20BCC2A8E1ABA00592BE2 /* EscapingBootCamp.swift */,
 				CDD20BCE2A8E280C00592BE2 /* CodableBootCamp.swift */,
 				CD611E0B2A8F751C009364ED /* DownloadWithEscapingBootCamp.swift */,
+				CD611E0D2A8F9367009364ED /* DownloadWithCombine.swift */,
+				CD611E0F2A8FA202009364ED /* CombineExample.swift */,
 				CD24A1522A8A47A200E69C2C /* Assets.xcassets */,
 				CD24A1542A8A47A200E69C2C /* Preview Content */,
 			);
@@ -213,12 +219,14 @@
 				CD24A1512A8A479F00E69C2C /* ContentView.swift in Sources */,
 				CD24A1632A8B82B200E69C2C /* GeometryReaderBootCamp.swift in Sources */,
 				CD24A1702A8BB8B900E69C2C /* HapticsAndVibrationBootCamp.swift in Sources */,
+				CD611E0E2A8F9367009364ED /* DownloadWithCombine.swift in Sources */,
 				CD24A15F2A8A876600E69C2C /* MagnificationGesture.swift in Sources */,
 				CDD20BC92A8D253900592BE2 /* WeakAndSelfBootCamp.swift in Sources */,
 				CDD20BCB2A8D2BE600592BE2 /* TypeAliasBootCamp.swift in Sources */,
 				CD24A1762A8CE2AA00E69C2C /* ArraysBootCamp.swift in Sources */,
 				CDD20BC22A8D0B9100592BE2 /* CoreDataBootCamp.swift in Sources */,
 				CD24A14F2A8A479F00E69C2C /* LearningSwiftUIApp.swift in Sources */,
+				CD611E102A8FA202009364ED /* CombineExample.swift in Sources */,
 				CD24A1692A8BB4B400E69C2C /* SoundEffectBootCamp.swift in Sources */,
 				CD24A1742A8CDE9200E69C2C /* HashableBootCamp.swift in Sources */,
 				CD24A15D2A8A827500E69C2C /* LongPressGesture.swift in Sources */,
