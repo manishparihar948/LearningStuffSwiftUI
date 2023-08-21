@@ -30,6 +30,7 @@
 		CD611E122A912515009364ED /* TimerAndOnReceive.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD611E112A912515009364ED /* TimerAndOnReceive.swift */; };
 		CD611E142A91E501009364ED /* CustomPublishersAndSubscribers.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD611E132A91E501009364ED /* CustomPublishersAndSubscribers.swift */; };
 		CD611E162A92170C009364ED /* FileManagerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD611E152A92170C009364ED /* FileManagerBootCamp.swift */; };
+		CD611E182A935B3B009364ED /* CacheBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD611E172A935B3A009364ED /* CacheBootCamp.swift */; };
 		CDD20BC22A8D0B9100592BE2 /* CoreDataBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC12A8D0B9100592BE2 /* CoreDataBootCamp.swift */; };
 		CDD20BC52A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC32A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld */; };
 		CDD20BC72A8D1CB000592BE2 /* MultiThreadingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDD20BC62A8D1CAF00592BE2 /* MultiThreadingBootCamp.swift */; };
@@ -64,6 +65,7 @@
 		CD611E112A912515009364ED /* TimerAndOnReceive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerAndOnReceive.swift; sourceTree = "<group>"; };
 		CD611E132A91E501009364ED /* CustomPublishersAndSubscribers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPublishersAndSubscribers.swift; sourceTree = "<group>"; };
 		CD611E152A92170C009364ED /* FileManagerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerBootCamp.swift; sourceTree = "<group>"; };
+		CD611E172A935B3A009364ED /* CacheBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheBootCamp.swift; sourceTree = "<group>"; };
 		CDD20BC12A8D0B9100592BE2 /* CoreDataBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootCamp.swift; sourceTree = "<group>"; };
 		CDD20BC42A8D0CC200592BE2 /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		CDD20BC62A8D1CAF00592BE2 /* MultiThreadingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiThreadingBootCamp.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				CD611E112A912515009364ED /* TimerAndOnReceive.swift */,
 				CD611E132A91E501009364ED /* CustomPublishersAndSubscribers.swift */,
 				CD611E152A92170C009364ED /* FileManagerBootCamp.swift */,
+				CD611E172A935B3A009364ED /* CacheBootCamp.swift */,
 				CD24A1522A8A47A200E69C2C /* Assets.xcassets */,
 				CD24A1542A8A47A200E69C2C /* Preview Content */,
 			);
@@ -242,6 +245,7 @@
 				CD24A1692A8BB4B400E69C2C /* SoundEffectBootCamp.swift in Sources */,
 				CD24A1742A8CDE9200E69C2C /* HashableBootCamp.swift in Sources */,
 				CD24A15D2A8A827500E69C2C /* LongPressGesture.swift in Sources */,
+				CD611E182A935B3B009364ED /* CacheBootCamp.swift in Sources */,
 				CD24A1652A8B8A7500E69C2C /* MultipleSheetBootCamp.swift in Sources */,
 				CD24A1672A8B911300E69C2C /* MaskBootCamp.swift in Sources */,
 				CDD20BC52A8D0CC200592BE2 /* FruitsContainer.xcdatamodeld in Sources */,
